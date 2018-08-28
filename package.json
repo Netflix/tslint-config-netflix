@@ -1,0 +1,20 @@
+{
+  "name": "tslint-config-netflix",
+  "version": "1.0.0",
+  "description": "Netflix TSLint configuration",
+  "main": "index.js",
+  "repository": "git+https://github.com/Netflix/tslint-config-netflix.git",
+  "keywords": [
+    "tslint",
+    "typescript"
+  ],
+  "author": "Kaylie Kwon <kkwon@netflix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Netflix/tslint-config-netflix/issues"
+  },
+  "homepage": "https://github.com/Netflix/tslint-config-netflix#readme",
+  "devDependencies": {
+    "tslint": "^5.11.0"
+  }
+}
