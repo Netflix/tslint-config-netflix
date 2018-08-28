@@ -26,7 +26,7 @@ In `tslint.json`:
 {
   "extends": ["tslint-config-netflix", "tslint-config-prettier"],
   "rules": {
-      "no-any": true,
+      "no-any": true
   }
 }
 ```

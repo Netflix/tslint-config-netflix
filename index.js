@@ -1,7 +1,7 @@
 module.exports = {
     rules: {
-        "align": [true, "parameters", "statements"],
-        "arrow-return-shorthand": true,
+        'align': [true, 'parameters', 'statements'],
+        'arrow-return-shorthand': true,
         'curly': true,
         'max-line-length': [true, 120],
         'new-parens': true,
