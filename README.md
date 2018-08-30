@@ -17,7 +17,7 @@ In `tslint.json`:
 
 ```json
 {
-  "extends": "tslint-config-netflix"
+  "extends": "@netflix/tslint-config"
 }
 ```
 

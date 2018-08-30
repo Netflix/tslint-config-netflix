@@ -17,11 +17,17 @@ module.exports = {
         'no-trailing-whitespace': true,
         'no-var-keyword': true,
         'no-unnecessary-initializer': true,
-        'ordered-imports': true,
+        'ordered-imports': [
+            true,
+            {
+              "grouped-imports": true,
+              "import-sources-order": "any",
+              "named-imports-order": "any"
+            }
+          ],
         'prefer-const': true,
         'prefer-readonly': true,
         'quotemark': [true, 'single', 'jsx-double'],
-        'semicolon': [true, 'always'],
         'trailing-comma': [true, {'multiline': 'always', 'singleline': 'never'}],
         'triple-equals': [true, 'allow-null-check'],
         'whitespace': [

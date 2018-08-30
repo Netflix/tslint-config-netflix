@@ -1,5 +1,5 @@
 {
-  "name": "tslint-config-netflix",
+  "name": "@netflix/tslint-config",
   "version": "1.0.0",
   "description": "Netflix TSLint configuration",
   "main": "index.js",
