@@ -9,7 +9,7 @@
     "typescript"
   ],
   "author": "Kaylie Kwon <kkwon@netflix.com>",
-  "license": "MIT",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/Netflix/tslint-config-netflix/issues"
   },
