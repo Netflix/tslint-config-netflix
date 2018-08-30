@@ -11,7 +11,6 @@ module.exports = {
         'no-duplicate-imports': true,
         'no-internal-module': true,
         'no-inferrable-types': true,
-        'no-multi-spaces': true,
         'no-parameter-reassignment': true,
         'no-string-literal': true,
         'no-trailing-whitespace': true,
@@ -20,13 +19,12 @@ module.exports = {
         'ordered-imports': [
             true,
             {
-              "grouped-imports": true,
-              "import-sources-order": "any",
-              "named-imports-order": "any"
+              'grouped-imports': true,
+              'import-sources-order': 'any',
+              'named-imports-order': 'any'
             }
           ],
         'prefer-const': true,
-        'prefer-readonly': true,
         'quotemark': [true, 'single', 'jsx-double'],
         'trailing-comma': [true, {'multiline': 'always', 'singleline': 'never'}],
         'triple-equals': [true, 'allow-null-check'],
