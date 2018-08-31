@@ -221,6 +221,10 @@ tsutils@^2.27.2:
   dependencies:
     tslib "^1.8.1"
 
+typescript@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.0.3.tgz#4853b3e275ecdaa27f78fda46dc273a7eb7fc1c8"
+
 wrappy@1:
   version "1.0.2"
   resolved "https://artifacts.netflix.com/api/npm/npm-netflix/wrappy/-/wrappy-1.0.2.tgz#b5243d8f3ec1aa35f1364605bc0d1036e30ab69f"
